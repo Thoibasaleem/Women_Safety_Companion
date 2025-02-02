@@ -94,7 +94,7 @@ Tools Used:
 Express.js (for handling requests)
 
 # Screenshots (Add at least 3)
-![Screenshot1](C:\Users\THOIBA M\Desktop\tink-her-hack-3-temp\screenshot\screenshot1.png)
+![Screenshot1](tink-her-hack-3-temp\screenshot\screenshot1.png)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
