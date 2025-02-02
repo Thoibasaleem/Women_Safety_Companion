@@ -115,10 +115,10 @@ nodemon server.js  # Automatically restarts the server when files change
   # Works if you're on Windows
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](screenshot/screenshot2.jpg)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](screenshot/screenshot3.jpg)
 *Add caption explaining what this shows*
 
 ---
