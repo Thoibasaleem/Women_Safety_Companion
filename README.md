@@ -156,7 +156,7 @@ nodemon server.js  # Automatically restarts the server when files change
 ## Project Demo
 
 ### **Video**
-[Add your demo video link here]
+[screenshot/WhatsApp Video 2025-02-02 at 10.44.36_9c428ac7.mp4]
 *Explain what the video demonstrates*
 
 ### **Additional Demos**
