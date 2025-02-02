@@ -111,7 +111,8 @@ nodemon server.js  # Automatically restarts the server when files change
 
 **(Add at least 3 screenshots with captions explaining what they show)**
 
-![Screenshot1](screenshot\screenshot1.png)  # Works if you're on Windows
+![Screenshot1](screenshot/screenshot1.png)
+  # Works if you're on Windows
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
